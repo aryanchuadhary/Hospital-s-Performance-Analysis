@@ -20,7 +20,7 @@ Capacity & Flow: ER arrivals, LWBS, wait times, bottlenecks
 
 Add images in /reports/screenshots/ and reference below.
 
-Key Outcomes
+📁Key Outcomes
 
 Monitor KPIs: Bed Utilization, Patient Throughput, ALOS, Readmission Rate, Avg. Treatment Cost, OPD/ER Wait Time
 
