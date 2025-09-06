@@ -1,9 +1,24 @@
 # Hospital-s-Performance-Analysis
 A data analytics project that builds an end‑to‑end performance monitoring system for hospitals. It integrates raw operational data (admissions, departments, clinicians, beds, costs) into a clean analytics model and exposes Power BI dashboards for stakeholders to track hospital efficiency and outcomes.
 
+Timeline: September 2025 – Present
+Focus: Healthcare operations analytics — patient flow, bed utilization, cost of care, wait-time analysis
+
 🩺 Project Overview
 
 A data analytics project that builds an end‑to‑end performance monitoring system for hospitals. It integrates operational data (admissions, departments, clinicians, beds, costs) using SQL queries and Excel preprocessing, and exposes Power BI dashboards for stakeholders to track hospital efficiency and outcomes.
+
+📊 Dashboards (Power BI)
+
+Operations Overview: census, admissions/discharges, occupancy, ALOS
+
+Quality & Outcomes: readmission rate, mortality proxy, case-mix
+
+Financials: cost per case, revenue per bed-day, payer mix
+
+Capacity & Flow: ER arrivals, LWBS, wait times, bottlenecks
+
+Add images in /reports/screenshots/ and reference below.
 
 Key Outcomes
 
@@ -15,17 +30,6 @@ Support data-driven decision-making to improve hospital operations
 
 ⚠️ Data Privacy: Demo uses synthetic/de‑identified data. Replace with your organization’s data only if you have permission and follow HIPAA/GDPR/local regulations.
 
-KPIs (Definitions)
-
-Bed Utilization % = Occupied Bed-Days / Available Bed-Days
-
-ALOS = Avg. (Discharge Date − Admit Date)
-
-ER Wait Time = Arrival → Physician start
-
-Readmission Rate = 30‑day returns / discharges
-
-Cost per Case = Total cost / encounters
 
 ✅ Sample Results (replace with your metrics)
 
